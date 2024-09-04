@@ -3,7 +3,7 @@
 
 A Working Unoffical Snail IDE App
 Note:Do Not Sign In it Will Not Work But You Can Publish Still
-Just Click Upload It Takes You To The Website To Upload Keep
+Just Click save it Deskop Then Go the website Load it there. Keep
 That In Mind You Can Publish Just Not Sign in.
 
 
